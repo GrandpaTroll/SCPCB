@@ -1,0 +1,13 @@
+"scpbreach"
+{
+	"base"		"base"
+	"title"		"SCP: Containment Breach"
+	"maps"		"^scb_"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		
+
+	}
+}
